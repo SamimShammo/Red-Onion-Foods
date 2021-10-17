@@ -1,0 +1,9 @@
+.breakfast{
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+.breakfast:hover{
+    transition: .3s;
+    box-shadow: 0px 0px 42px -21px rgba(0,0,0,0.75);
+}

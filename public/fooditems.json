@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/60jWJgQ/breakfast1.png",
+    "price": 15,
+    "title": "Egg Benedict",
+    "desc": "Extended local parallelism",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "BreakFast"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/Dw3hmmP/breakfast2.png",
+    "price": 13,
+    "title": "BreakFast sandwitch",
+    "desc": "Centralized contextually-based software",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "BreakFast"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/7pyrLXZ/breakfast3.png",
+    "price": 10,
+    "title": "Baked Chicken",
+    "desc": "Synchronised exuding instruction set",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "BreakFast"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/nMnTgRT/breakfast4.png",
+    "price": 12,
+    "title": "Bagel and Cream Cheese",
+    "desc": "Triple-buffered cohesive infrastructure",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "BreakFast"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/8mKMM3G/breakfast5.png",
+    "price": 18,
+    "title": "Full Breakfast Fried Egg Toast Brunch",
+    "desc": "Polarized value-added policy",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "BreakFast"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/cxy4BsV/breakfast6.png",
+    "price": 16,
+    "title": "Toast Croissant",
+    "desc": "Customer-focused real-time access",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "BreakFast"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/W3gZBB0/lunch1.png",
+    "price": 23,
+    "title": "Honey-Soy-Glazed salmon with Peppers",
+    "desc": "Open-source actuating time-frame",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Lunch"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/RQ4QyFk/lunch2.png",
+    "price": 20,
+    "title": "Tarragon-Rubbed-Salmon",
+    "desc": "Versatile heuristic application",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Lunch"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/R3xgfJR/lunch3.png",
+    "price": 29,
+    "title": "Indian Lunch",
+    "desc": "Enhanced national throughput",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "Lunch"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/RjrTRcg/lunch4.png",
+    "price": 25,
+    "title": "Fried Chicken Bento",
+    "desc": "Team-oriented stable info-mediaries",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Lunch"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/dbfjn2g/lunch5.png",
+    "price": 28,
+    "title": "Healthy Meal Plan",
+    "desc": "Advanced needs-based task-force",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "Lunch"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/g3rSnMw/lunch6.png",
+    "price": 21,
+    "title": "Beef Steak",
+    "desc": "Multi-tiered content-based superstructure",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "Lunch"
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/nPtjtfP/dinner1.png",
+    "price": 20,
+    "title": "Beef vuna",
+    "desc": "Persistent fresh-thinking help-desk",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Dinner"
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/TknksQM/dinner2.png",
+    "price": 18,
+    "title": "Lemony Salmon Piccata",
+    "desc": "Polarised interactive internet solution",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Dinner"
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/zVQDYW0/dinner3.png",
+    "price": 25,
+    "title": "Garlic Butter Baked Salmon",
+    "desc": "Polarised object-oriented concept",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Dinner"
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/q0nQDpg/dinner4.png",
+    "price": 26,
+    "title": "French Fries with cheese",
+    "desc": "Function-based clear-thinking knowledge user",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+
+    "category": "Dinner"
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/zsWvM9w/dinner5.png",
+    "price": 36,
+    "title": "Pork Tenderloin With Quinoa Pilaf",
+    "desc": "Compatible asynchronous help-desk",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "Dinner"
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/0Vx33Jc/dinner6.png",
+    "price": 22,
+    "title": "Salmon with Grapefruit and Lentil Salad",
+    "desc": "Switchable methodical pricing structure",
+    "mealDetail": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have to borrow words from other areas to describe the food and the effect it has on us. You can compare a dish to a picture, a sports game, a musical performance, or give it personality.",
+    "category": "Dinner"
+  }
+]

@@ -1,0 +1,21 @@
+.btn-checkFood{
+    height: 40px;
+    border-radius: 30px;
+    width: 200px;
+    border: none;
+    background-color: rgb(255, 75, 75);
+    color: white;
+   
+}
+.btn-checkFood:hover{
+   
+    border: none;
+    background-color: rgb(255, 75, 75);
+    color: white;
+   
+}
+.btn-checkFood:focus{
+    outline: none;
+    box-shadow:none;
+   
+}

@@ -1,0 +1,44 @@
+.margin-align{
+    padding: 0;
+    margin: 0;
+   
+}
+.banner-container{
+    background-image: url(../../img/bannerbackground.png);
+    background-position: center;
+    background-size: cover;
+    padding: 16% 0;
+    background-attachment: fixed;
+
+
+}
+.btn-search{
+    height: 40px;
+    border-radius: 30px;
+    width: 100px;
+    border: none;
+    background-color: rgb(255, 75, 75);
+    color: white;
+   
+}
+.btn-search:hover{
+    height: 40px;
+    
+    width: 100px;
+    border: none;
+    background-color: rgb(255, 75, 75);
+    color: white;
+   
+}
+.btn-search, .search-input:focus{
+    outline: none;
+    box-shadow:none;
+   
+}
+.search-input{
+    border: none;
+    border-radius: 20px;
+}
+.heading-tag{
+    font-size: 50px;
+}
